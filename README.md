@@ -7,7 +7,7 @@ This analysis aims to evaluate the financial health of a sports business line, s
 ## Key Findings 
 Below is the overview page from the powerbi dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here].
 
- ![Your Image Alt Text]https://github.com/den-yefa/Triathlon-Sports-Financial-Analysis-/blob/main/assets/images/Dashboard.png?raw=true
+ ![Your Image Alt Text](https://github.com/den-yefa/Triathlon-Sports-Financial-Analysis-/blob/main/assets/images/Dashboard.png?raw=true)
  
 DAX Measures used to perform calculations and aggregations can be found [here].
 Overall Financial Peformance 
@@ -20,7 +20,7 @@ Business Line Performance
 * Sportwear: Sportwear contributed more then 38% of sales revenue to the company which shows a significant contrubution to the total revenue but the net profit was significantly higher than sport equipment.
 * Nutrition and Food Supplement: This business line only contributed to 10% of the entire sales revenue, it experienced the lowest revenue, gross profit and net profit.
 
- ![Your Image Alt Text]https://raw.githubusercontent.com/den-yefa/Triathlon-Sports-Financial-Analysis-/refs/heads/main/assets/images/breakdown.png
+ ![Your Image Alt Text](https://raw.githubusercontent.com/den-yefa/Triathlon-Sports-Financial-Analysis-/refs/heads/main/assets/images/breakdown.png)
 
 Expense Management 
 * Cost of Production: The cost of production for sportswear and sports equipment is relatively high compared to nutrition and food supplements, which can be directed related to why nutrition and food supplement is performing less than the rest.
