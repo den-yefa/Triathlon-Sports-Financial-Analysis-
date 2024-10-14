@@ -1,0 +1,10 @@
+Cost of goods and services 
+Cost of Production = CALCULATE([Total Amount],revenue_expense[Revenue / Expense Group]="COGS") * -1
+Financial Calculations 
+Gross Profit = CALCULATE([Total Amount],revenue_expense[Revenue or expense]="Revenue" || revenue_expense[Revenue / Expense Group]="COGS")
+Gross Profit Margin = [Gross Profit]/[Sales]
+Net Profit = CALCULATE([Total Amount],revenue_expense[Revenue or expense]="Revenue" || revenue_expense[Revenue / Expense Group]="COGS"||
+revenue_expense[Revenue or expense]="Expense")
+Net Profit Margin = [Net Profit]/[Sales]
+Operating Profit = CALCULATE([Total Amount],revenue_expense[Revenue or expense]="Revenue" || revenue_expense[Revenue / Expense Group]="COGS" || revenue_expense[Revenue / Expense Group]="Opex")
+PBIT = CALCULATE([Total Amount],revenue_expense[Revenue or expense]="Revenue" || revenue_expense[Revenue / Expense Group]="COGS"|| revenue_expense[Revenue / Expense Group]="Opex")
