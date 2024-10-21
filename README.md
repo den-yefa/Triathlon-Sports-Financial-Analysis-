@@ -3,7 +3,7 @@
 ## Executive Summary 
 Project Overview 
 
-This analysis aims to evaluate the financial health of a sports business line, specifically focusing on sportswear, supplements, and gears, during the 2024 triathlon period. By examining financial statements, the objective is to assess revenue growth, profitability, cost structure, and overall financial performance. This analysis will provide valuable insights into the business line's financial standing and identify areas for improvement or potential opportunities.
+This analysis aim to evaluate the financial health of a sports business line, specifically focusing on sportswear, supplements, and gears, during the 2024 triathlon period. By examining financial statements, the objective is to assess revenue growth, profitability, cost structure, and overall financial performance. This analysis will provide valuable insights into the business line's financial standing and identify areas for improvement or potential opportunities.
 
 ## Key Findings 
 Below is the overview page from the powerbi dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded [here](https://app.powerbi.com/groups/me/reports/e0d28255-7f9a-453d-ac95-ceb1c2e93332/0ba1f95508b49899a860?experience=power-bi).
