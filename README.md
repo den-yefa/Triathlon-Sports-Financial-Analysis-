@@ -2,6 +2,7 @@
 # Report 
 ## Executive Summary 
 Project Overview 
+
 This analysis aims to evaluate the financial health of a sports business line, specifically focusing on sportswear, supplements, and gears, during the 2024 triathlon period. By examining financial statements, the objective is to assess revenue growth, profitability, cost structure, and overall financial performance. This analysis will provide valuable insights into the business line's financial standing and identify areas for improvement or potential opportunities.
 
 ## Key Findings 
@@ -27,7 +28,7 @@ Expense Management
 * In term of funds distribution, more money was spent on labor, payroll and equipment.
 
 Recommendations 
-* Cost Management:With Labor, Payroll and Equipment being the highest in terms of funds distribution, continue to monitor and manage operating expenses, particularly payroll and equipemnt, to improve profitability. Consider increasing the fund distribution in Marketing.
+* Cost Management:With Labor, Payroll and Equipment being the highest in terms of funds distribution, continue to monitor and manage operating expenses, particularly payroll and equipment, to improve profitability. Consider increasing the fund distribution in Marketing.
 * Business Line Optimization: Nutrition and food supplement business line is very low in terms of performance, identify areas for improvement or potential opportunities such as increase in expenses. Upselling is another way to encourage customers to buy this product
 * Financial Forecasting: Develop a financial forecasting model to anticipate future trends and make informed business decisions.
 * Risk Management: Assess and mitigate potential financial risks, such as market fluctuations and economic downturns.
